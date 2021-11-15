@@ -1,0 +1,10 @@
+datetime_beginning_utc,datetime_beginning_ept,fuel_type,mw,fuel_percentage_of_total,is_renewable
+7/1/2021 4:00:00 AM,7/1/2021 12:00:00 AM,Hydro,373.3,0.00,True
+7/1/2021 4:00:00 AM,7/1/2021 12:00:00 AM,Multiple Fuels,154.2,0.00,False
+7/1/2021 4:00:00 AM,7/1/2021 12:00:00 AM,Nuclear,30672.5,0.29,False
+7/1/2021 4:00:00 AM,7/1/2021 12:00:00 AM,Oil,92.0,0.00,False
+7/1/2021 4:00:00 AM,7/1/2021 12:00:00 AM,Other,37.8,0.00,False
+7/1/2021 4:00:00 AM,7/1/2021 12:00:00 AM,Other Renewables,712.6,0.00,True
+7/1/2021 4:00:00 AM,7/1/2021 12:00:00 AM,Solar,7.1,0.00,True
+7/1/2021 4:00:00 AM,7/1/2021 12:00:00 AM,Storage,0.0,0.00,False
+7/1/2021 4:00:00 AM,7/1/2021 12:00:00 AM,Wind,1003.1,0.01,True
